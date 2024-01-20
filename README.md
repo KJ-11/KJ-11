@@ -35,7 +35,7 @@ Here are some of my favorite projects:
 - [B.S in Data Sci], [UW Madison], [2025]
 
 ## Contact Me
-- **LinkedIn**: [Kshitij Jhunjhunwala](www.linkedin.com/in/kshitij-jhunjhunwala11)
+- **LinkedIn**: [Kshitij Jhunjhunwala](https://www.linkedin.com/in/kshitij-jhunjhunwala11)
 - **Email**: `kshjhun@gmail.com`
 
 ## GitHub Stats
