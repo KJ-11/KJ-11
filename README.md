@@ -38,7 +38,8 @@ Here are some of my favorite projects:
 - **LinkedIn**: [Kshitij Jhunjhunwala](https://www.linkedin.com/in/kshitij-jhunjhunwala11)
 - **Email**: `kshjhun@gmail.com`
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJ-11&show_icons=true)
+
+<!--## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJ-11&show_icons=true)-->
 
 Feel free to reach out if you're looking for a collaborator, have a question, or just want to connect!
