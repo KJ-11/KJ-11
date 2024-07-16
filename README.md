@@ -26,8 +26,8 @@ Here are some of my favorite projects:
 - [Project Name 3](Link to Project 3): Description of what this project does and what skills or technologies you used.
 -->
 ## Skills
-- **Programming Languages**: Java, Python, C, R, JavaScript, SQL, HTML
-- **Libraries, Frameworks**: React, NumPy, Pandas, Matplotlib, JUnit, JavaFX, sqlite, scikit-learn, tidyverse
+- **Programming Languages**: Java, Python, C, R, SQL
+- **Libraries, Frameworks**: NumPy, Pandas, Matplotlib, JUnit, JavaFX, sqlite, scikit-learn, tidyverse
 - **Interests**: Soccer, Financial markets, Basketball, Suits(TV Show), Board games, Traveling, Languages, Astronomy
 
 ## Education
