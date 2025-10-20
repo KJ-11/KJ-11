@@ -1,45 +1,30 @@
-<!--
-**KJ-11/KJ-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Kshitij Jhunjhunwala (KJ) 👋
 
-Here are some ideas to get you started:
+## About Me  
+Founder & engineer building AI-driven products at the intersection of sports and data.  
+I care deeply about creating tools that combine intelligent automation, clean design, and real-world utility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-# Hello, I'm Kshitij Jhunjhunwala (KJ)! 👋
+## Current Work  
+### 🚀 ProfitLabs  
+I’m building **[ProfitLabs](https://www.profitlabs.us)** — an AI-powered betting research platform that helps users make smarter, data-driven decisions through real-time odds analysis and proprietary ML models.  
+Our MVP is launching soon.  
+→ [GitHub (owner-profitlabz)](https://github.com/owner-profitlabz)
 
-## About Me
-I'm a junior at UW-Madison with a passion for solving real world and business problems using software development. I'm particularly interested in ML/AI and how we can leverage technology to create revolutionary solutions.
+---
 
-<!--
-## Projects
-Here are some of my favorite projects:
-- [Project Name 1](Link to Project 1): Description of what this project does and what skills or technologies you used.
-- [Project Name 2](Link to Project 2): Description of what this project does and what skills or technologies you used.
-- [Project Name 3](Link to Project 3): Description of what this project does and what skills or technologies you used.
--->
-## Skills
-- **Programming Languages**: Java, Python, C, R, SQL
-- **Libraries, Frameworks**: NumPy, Pandas, Matplotlib, JUnit, JavaFX, sqlite, scikit-learn, tidyverse
-- **Interests**: Soccer, Financial markets, Basketball, Suits(TV Show), Board games, Traveling, Languages, Astronomy
+## Education  
+**University of Wisconsin–Madison**  
+B.S. in Computer Science, Data Science & Entrepreneurship
 
-## Education
-- [B.S in Comp. Sci], [UW Madison], [2025]
-- [B.S in Data Sci], [UW Madison], [2025]
+---
 
-## Contact Me
-- **LinkedIn**: [Kshitij Jhunjhunwala](https://www.linkedin.com/in/kshitij-jhunjhunwala11)
-- **Email**: `kshjhun@gmail.com`
+## Beyond Tech  
+Outside of work, I’m into fitness, soccer, travel, and financial markets. Always looking to connect with driven builders and curious minds.  
 
+---
 
-<!--## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KJ-11&show_icons=true)-->
-
-Feel free to reach out if you're looking for a collaborator, have a question, or just want to connect!
+📫 **Connect:**  
+- [LinkedIn](https://www.linkedin.com/in/kshitij-jhunjhunwala11)  
+- **Email:** `kshjhun@gmail.com`
