@@ -10,4 +10,4 @@ Prev. Consultant Intern at **Deloitte** (global mobility tax department).
 
 B.S. Computer Science, Data Science, and Entrepreneurship from **UW–Madison**.
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/kshitij-jhunjhunwala11) · kshjhun@gmail.com · kshitij-jhunjhunwala.com
+**Connect:** [LinkedIn](https://www.linkedin.com/in/kshitij-jhunjhunwala11) · kshjhun@gmail.com · [www.kshitij-jhunjhunwala.com](www.kshitij-jhunjhunwala.com)
