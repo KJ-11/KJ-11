@@ -1,6 +1,6 @@
 # Kshitij (KJ) Jhunjhunwala
 
-Software engineer at **Composio** in San Francisco (Member of Technical Staff), building agent tooling: the Composio CLI, the Claude Code and Codex agent plugins, and our Stripe Projects integration.
+Member of Technical Staff at **Composio** in San Francisco, working across product, activation, and data.
 
 Previously founder of **ProfitLabs**, a cross-exchange analytics platform for prediction markets. Built it solo in under 7 weeks, grew it to around $120M in daily tracked volume and 5,000+ users, wound it down in June 2026.
 
