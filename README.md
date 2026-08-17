@@ -1,13 +1,11 @@
 # Kshitij (KJ) Jhunjhunwala
 
-Currently MTS @Composio
+Member of Technical Staff at **Composio** in San Francisco, working across product, activation, and data.
 
-Prev. Founder of **[ProfitLabs](https://www.profitlabs.us)** — a real-time cross-exchange financial analytics platform for prediction markets. We ingest live data from Polymarket and Kalshi, surface arbitrage opportunities, and track whale activity for active traders.
+Previously founder of **[ProfitLabs](https://kshitij-jhunjhunwala.com/build/profitlabs)**, a cross-exchange analytics platform for prediction markets. Built it solo in under 7 weeks, grew it to around $120M in daily tracked volume and 5,000+ users, wound it down in June 2026.
 
-Prev. AI Engineer at **Cylerity** (healthcare fintech). 
+Before that: Software Engineer at **Cylerity** (healthcare fintech), Consultant Intern at **Deloitte** (global mobility tax).
 
-Prev. Consultant Intern at **Deloitte** (global mobility tax department).
+B.S. Computer Science, Data Science, and Entrepreneurship from **UW-Madison**.
 
-B.S. Computer Science, Data Science, and Entrepreneurship from **UW–Madison**.
-
-**Connect:** [LinkedIn](https://www.linkedin.com/in/kshitij-jhunjhunwala11) · kshjhun@gmail.com · [www.kshitij-jhunjhunwala.com](https://www.kshitij-jhunjhunwala.com)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/kshitij-jhunjhunwala11) · kshjhun@gmail.com · [kshitij-jhunjhunwala.com](https://kshitij-jhunjhunwala.com)
